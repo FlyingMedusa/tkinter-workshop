@@ -2,6 +2,8 @@ import tkinter
 
 top = tkinter.Tk()
 
+top.configure(background='darkcyan')
+
 top.minsize(width=300, height=300)
 top.minsize(width=300, height=300)
 
