@@ -16,6 +16,13 @@ tkinter.Label(page2, text="This is page 2").pack()
 tkinter.Label(page3, text="This is page 3").pack()
 tkinter.Label(page4, text="This is page 4").pack()
 
+def deactivate(tag, state):
+    print(tag, state)
+    if state == 1:
+        notebook.tab(tag).configure(state="normal")
+    else:
+        notebook.tab(tag).configure(state="disabled")
+
 checkbuttons = Pmw.RadioSelect(page1,
                                buttontype='checkbutton',
                                orient='vertical',
