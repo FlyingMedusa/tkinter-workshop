@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6baf10f2-d14b-4bad-b0c1-27d8d912ab85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19_ttk_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +39,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19_ttk_time">
-    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10_for_and_chosing_colors">
+    <configuration name="06_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Tkinter\15_widgets_entryfields.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07_print_entry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Tkinter\16_nice_entryfields.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_print_entry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17_notebook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08_message_box" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Tkinter\17_notebook_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_message_box.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_notebook_radio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09_chosing_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_notebook_radio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_chosing_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19_ttk_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_for_and_chosing_colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19_ttk_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_for_and_chosing_colors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.19_ttk_time" />
-        <item itemvalue="Python.18_notebook_radio" />
-        <item itemvalue="Python.16" />
-        <item itemvalue="Python.17_notebook" />
-        <item itemvalue="Python.15" />
+        <item itemvalue="Python.10_for_and_chosing_colors" />
+        <item itemvalue="Python.09_chosing_files" />
+        <item itemvalue="Python.08_message_box" />
+        <item itemvalue="Python.07_print_entry" />
+        <item itemvalue="Python.06_lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
